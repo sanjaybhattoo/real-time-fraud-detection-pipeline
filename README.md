@@ -1,4 +1,4 @@
-# real-time-fraud-detection-pipeline
+# Real-Time-Fraud-Detection-System
 Data engineering project that demonstrates event-driven architecture, real-time stream processing, and microservices design in production grade environment.
 
 Goal :
