@@ -1,15 +1,13 @@
 # Real-Time-Fraud-Detection-System
-Data engineering project that demonstrates event-driven architecture, real-time stream processing, and microservices design in production grade environment.
+Project is based on event-driven architecture, real-time stream processing, and microservices design in production grade environment.
 
-Goal :
+My Goals for project are :
 1. project capacity upto 100k+ per sec 
 2. 400ms for transaction to fraud detection. 
 
 Technologies used : Python, Go, Node.js, Docker, Kubernetes, Kafka, PostgreSQL, Redis .
 
 System architecture followed : 
-
-
 
 
 <img width="663" height="585" alt="Screenshot 2026-03-07 at 1 57 10 AM" src="https://github.com/user-attachments/assets/a7b105dc-c975-45b1-8363-05d91042cfb3" />
@@ -23,7 +21,7 @@ Steps followed by me to implement this end to end :
 4. Services :
        a. Transaction processor
        b. Feature enigine
-       c. --working on ---
+       c. currently working on 
 
 
 
