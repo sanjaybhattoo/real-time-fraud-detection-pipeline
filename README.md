@@ -32,12 +32,14 @@ Goal : Latency timeline expected :
 
 Can be scaled using combination of : Kafka partitioning + stateless microservices + Kubernetes HPA + databases
 
-Example explanation of project : 
+Diagram explanation of project : 
 
 Customer Makes Payment
 ↓
-Kafka (Event Hub) ← All transactions flow here
+
+Kafka (Event Hub) ←  All transactions flow here
 ↓
+
 Transaction Processor ← Validates data
 ↓
 Feature Engine ← "Is this user normally in Arizona?"
